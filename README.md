@@ -9,9 +9,8 @@ programming languages, such as Python and Swift. My specialization is software d
 an "Lost and Found" App that helps users to report and search for their lost items on Xcode with Swift. 
 - 😁 &nbsp; Personal interests: cooking, biking, watching movies, enjoying food. 
 - ✅ &nbsp; Something I am proud of doing this month is I am working on a flashcard app that allows users to study in a productive and fun way, and it will be soon deployed, which everyone can download it on their iPhone. 
-
-
-<img alt="Coding" width = 200  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right"/>
+   
+<img alt="Coding" width = 220px  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" />
 
 ### 🛠 &nbsp;Tech Gear
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
