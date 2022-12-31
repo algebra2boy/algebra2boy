@@ -39,12 +39,20 @@ programming languages, such as Python and Swift. My specialization is software d
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/algebra2boy">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algebra2boy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algebra2boy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+   <a href="https://github.com/algebra2boy">
+     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algebra2boy&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algebra2boy&layout=compact&langs_count=8&theme=algolia"/>
+   </a>
 </p>
 
 ## ✍️ Random Dev Quote
 <p align="center">
 <img height="160em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+
+## 🎵 Favorite study music
+<p align="center">
+   <a href="https://www.youtube.com/watch?v=FjHGZj2IjBk" target="_blank"><img src="https://i.pinimg.com/736x/4f/b7/e8/4fb7e82c9181712ac61047c1cf1c25a0.jpg" alt="Relaxing music" width="300" height="200" border="50" /></a>
+   <a href="https://www.youtube.com/watch?v=q55qNEKQLG0" target="_blank"><img src="https://i.ytimg.com/vi/q55qNEKQLG0/maxresdefault.jpg" alt="Relaxing music" width="300" height="200" border="50" /></a> 
+
+</p>
+
