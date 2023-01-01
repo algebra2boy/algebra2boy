@@ -28,12 +28,14 @@ programming languages, such as Python and Swift. My specialization is software d
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat=Udemy&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-05122A?&style=flat&logo=spotify&logoColor=green)\
+![Spotify](https://img.shields.io/badge/Spotify-05122A?&style=flat&logo=spotify&logoColor=green)
+![Atom](https://img.shields.io/badge/Xcode-05122A?style=flat&logo=Xcode&logoColor=blue)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Pycharm](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=Atom&logoColor=white)
+![Atom](https://img.shields.io/badge/SublimeText-05122A?style=flat&logo=SublimeText&logoColor=orange)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
