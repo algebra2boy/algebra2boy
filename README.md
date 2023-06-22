@@ -5,22 +5,22 @@ My name is Yongye, a sophomore at the University of Amherst majoring in Computer
 Science and Mathematics, concentrated on mathematical computing and modeling. I am actively learning a few 
 programming languages, such as Python and Swift. My specialization is software development and iOS mobile app development.
 
-📖 I am currently working on a few mobile apps like DineAndGo and TacticToe in Swift and SwiftUI<br>
-♣ Have been working on Advent of Cyber and preparing Machine Learning for the spring semester<br>
-💡Currently preparing the 589 ML course by taking Andrew Ng's three ML specialization on Cousera<br> 
-🫶 On my track to finish advent of cyber in upcoming days
+📖 I am currently working at CenterForYouthEngagement as an iOS developer<br>
+♣ I have been actively learning Swift, SwiftUI, and React.<br>
+💡Currently taking Codepath's Advanced Technical Interview prep to learn trips to get better at leetcode<br> 
+🫶 I am the UCA for the CS 326, Web programming, in the summer and CS 345, Database Management, in the fall.
 
    
 <img alt="Coding" width = 220px  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" />
 
 ## 🛠 &nbsp;Tech Gear
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white)\
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
