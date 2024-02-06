@@ -1,23 +1,24 @@
 # 💫 About Me:
-Hi for anyone who is reading this 🧑🏻‍💻
+Hello for anyone who is reading this 🧑🏻‍💻
 
-My name is Yongye, a sophomore at the University of Amherst majoring in Computer
+My name is Yongye, a junior at the University of Amherst majoring in Computer
 Science and Mathematics, concentrated on mathematical computing and modeling. I am actively learning a few 
-programming languages, such as Python and Swift. My specialization is software development and iOS mobile app development.
+programming languages, such as Typescript and Swift. My specialization are software development and iOS, ipadOS, macOS and watchOS app development.
 
-📖 I am currently working at CenterForYouthEngagement as an iOS developer<br>
-♣ I have been actively learning Swift, SwiftUI, and React.<br>
-💡Currently taking Codepath's Intermediate Web Development to learn more about React!<br> 
-🫶 I am the UCA for the CS 326, Web programming, in the summer and CS 426, Scalable Web System, in the fall.
+📖 I am currently working at CenterForYouthEngagement as an iOS developer.<br>
+♣ I have been actively learning Swift, SwiftUI, React and Svelte.<br>
+💡 I am currently working on a cool and fun Chemistry website application as an independent study.<br> 
+🫶 I was the UCA for the CS 326, Web programming, in the summer of 2023 and CS 426, Scalable Web System, in the fall of 2023.
 
    
-<img alt="Coding" width = 220px  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" />
+<img alt="Coding" width = 220px  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" align="right" />
 
 ## 🛠 &nbsp;Tech Gear
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
@@ -27,14 +28,13 @@ programming languages, such as Python and Swift. My specialization is software d
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Udemy](https://img.shields.io/badge/Udemy-05122A?style=flat=Udemy&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-05122A?&style=flat&logo=spotify&logoColor=green)
-![Atom](https://img.shields.io/badge/Xcode-05122A?style=flat&logo=Xcode&logoColor=blue)\
+![Svelte](https://img.shields.io/badge/Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
 ![Pycharm](https://img.shields.io/badge/IntelliJ_IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=Atom&logoColor=white)
 ![Atom](https://img.shields.io/badge/SublimeText-05122A?style=flat&logo=SublimeText&logoColor=orange)
 
 
