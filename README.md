@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello for anyone who is reading this 🧑🏻‍💻
 
-My name is Yongye, a junior at the University of Amherst majoring in Computer
+My name is Yongye, a senior at the University of Amherst majoring in Computer
 Science and Mathematics, concentrated on mathematical computing and modeling. I am actively learning a few 
 programming languages, such as Typescript and Swift. My specialization are software development and iOS, ipadOS, macOS and watchOS app development.
 
